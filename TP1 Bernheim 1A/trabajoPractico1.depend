@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1587078316 source:c:\users\bernheim\desktop\programacion\trabajopractico1\tp1prog.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1Prog.h"
+
+1587161785 c:\users\bernheim\desktop\programacion\trabajopractico1\tp1prog.h
+
+1587163681 source:c:\users\bernheim\desktop\programacion\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TP1Bernheim.h"
+
+1587161785 source:c:\users\bernheim\desktop\programacion\trabajopractico1\tp1prog.h
+
+1587163681 c:\users\bernheim\desktop\programacion\trabajopractico1\tp1bernheim.h
+
+1587163681 source:c:\users\bernheim\desktop\programacion\trabajopractico1\tp1bernheim.c
+	<stdio.h>
+	<stdlib.h>
+	"TP1Bernheim.h"
+
