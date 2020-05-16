@@ -13,7 +13,7 @@
 #include "BernheimTP2.h"
 #include "Validaciones.h"
 
-#define TAM 5
+#define TAM 1000
 
 
 int main()
